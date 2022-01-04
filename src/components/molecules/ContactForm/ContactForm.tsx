@@ -24,7 +24,7 @@ export const ContactForm = ({
     <WhitePaper>
       <h2>{title}</h2>
       <FormWrapper
-        action="https://formsubmit.co/kubaf13@gmail.com"
+        action="https://formsubmit.co/ewelina.flis01@gmail.com"
         method="POST"
       >
         <FormField>
