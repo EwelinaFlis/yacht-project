@@ -33,7 +33,7 @@ export const Footer = ({ socialMedia }: FooterTypes): ReactElement => {
           <p>
             design by{' '}
             <strong>
-              Flisek<sup>2</sup>
+              Ewelina Flis
             </strong>
           </p>
           <p>&copy; {getYear()} </p>

@@ -1,7 +1,7 @@
 {
   "name": "yacht-project",
   "private": true,
-  "author": "Fliski",
+  "author": "Ewelina Flis",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
